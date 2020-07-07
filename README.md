@@ -1,0 +1,1 @@
+Solving challenges of Code Wars.
