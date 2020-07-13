@@ -2,9 +2,9 @@
 
 
 def dig_pow(n, p):
-    print(list(enumerate(str(n), start = p)))
+    print(list(enumerate(str(n), start=p)))
     addition = 0
-    for key, value in enumerate(str(n), start = p):
+    for key, value in enumerate(str(n), start=p):
         print(key, value)
         addition += pow(int(value), key)
         print(addition)

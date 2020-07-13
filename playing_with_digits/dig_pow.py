@@ -1,3 +1,6 @@
+# Submitted code
+
+
 def dig_pow(n, p):
     n_in = n
     digits = []
